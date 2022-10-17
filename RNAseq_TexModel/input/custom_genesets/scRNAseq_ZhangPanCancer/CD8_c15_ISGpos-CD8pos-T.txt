@@ -1,0 +1,1262 @@
+SYMBOL	ES
+SLC4A10	3.06 
+KLRB1	2.09 
+CCR6	1.82 
+IL23R	1.65 
+RORC	1.64 
+TMIGD2	1.48 
+IL4I1	1.48 
+ZBTB16	1.39 
+NCR3	1.27 
+CCL20	1.25 
+LTK	1.19 
+CA2	1.17 
+ME1	1.15 
+CEBPD	1.11 
+AQP3	1.09 
+CD40LG	1.08 
+LTB	1.07 
+ADAM12	1.06 
+DPP4	1.06 
+IL7R	1.06 
+COLQ	1.00 
+CTSH	1.00 
+LST1	0.97 
+BLK	0.91 
+TNFRSF25	0.91 
+TLE1	0.90 
+TNFSF13B	0.89 
+TSPAN15	0.87 
+RORA	0.86 
+IL17RE	0.76 
+HPGD	0.75 
+SPOCK2	0.74 
+TPBG	0.71 
+ERN1	0.70 
+B3GALT2	0.67 
+P2RY14	0.66 
+PRSS35	0.65 
+PLD1	0.64 
+MCAM	0.62 
+FSD1	0.62 
+SCRN1	0.62 
+S100A4	0.61 
+PTPN13	0.61 
+TRIQK	0.61 
+RPLP1	0.60 
+IL18RAP	0.60 
+IFNGR1	0.59 
+NFKBIA	0.59 
+COL5A1	0.56 
+FEZ1	0.56 
+SLAMF1	0.55 
+NR1D1	0.55 
+B3GNT8	0.55 
+RUNX2	0.54 
+TPT1	0.54 
+CERK	0.54 
+ODF2L	0.54 
+CXCR6	0.53 
+FLT4	0.53 
+MATN2	0.53 
+SESN1	0.52 
+EEF1A1	0.52 
+RPLP0	0.51 
+SATB1	0.50 
+KIF5C	0.50 
+NRIP1	0.49 
+MYBL1	0.49 
+ABCB1	0.49 
+GPR65	0.49 
+FKBP11	0.48 
+IL26	0.48 
+IL17A	0.48 
+KIT	0.47 
+PHACTR2	0.47 
+NTN4	0.47 
+TTC39C	0.46 
+PBXIP1	0.46 
+FURIN	0.44 
+ESPN	0.43 
+IL18R1	0.43 
+MGAT4A	0.42 
+RAB6B	0.42 
+CHD7	0.41 
+PLXND1	0.41 
+PDE4D	0.41 
+OSTF1	0.41 
+PERP	0.40 
+GNA15	0.39 
+COL5A3	0.39 
+DUSP1	0.38 
+CD69	0.38 
+SPON1	0.37 
+TNFAIP3	0.37 
+NEO1	0.37 
+TBXAS1	0.37 
+PRNP	0.37 
+DSE	0.37 
+PIM1	0.36 
+CD83	0.36 
+CCDC107	0.36 
+CXXC5	0.36 
+S100A6	0.36 
+ALOX5AP	0.35 
+ATF7IP2	0.35 
+RBMS1	0.35 
+ABCA1	0.35 
+PDCD4	0.35 
+SYTL2	0.35 
+GPR171	0.35 
+FLT3LG	0.34 
+IFI44	0.34 
+ELK3	0.34 
+MAF	0.34 
+EEF1G	0.34 
+NFKBIZ	0.34 
+RARG	0.34 
+KLRG1	0.33 
+LRP12	0.33 
+RPS13	0.33 
+PER1	0.33 
+RPL13	0.33 
+TNFAIP8	0.33 
+SPRY1	0.32 
+PFKFB3	0.32 
+ABHD15	0.32 
+RPL32	0.32 
+CA10	0.31 
+DYNLT3	0.31 
+GALC	0.31 
+PABPC1	0.30 
+SNX9	0.30 
+TIFA	0.30 
+MKNK1	0.30 
+PLCB1	0.30 
+DUSP16	0.30 
+CAMK4	0.30 
+RGS18	0.30 
+GYG1	0.30 
+LAPTM5	0.30 
+C10orf128	0.29 
+CYTH3	0.29 
+IRS2	0.29 
+IL12RB2	0.29 
+ANK1	0.29 
+NINJ1	0.29 
+MYC	0.28 
+YWHAH	0.28 
+RPL3	0.28 
+RPL8	0.28 
+RPL34	0.28 
+RPL5	0.28 
+TBC1D31	0.28 
+TNF	0.28 
+YWHAQ	0.27 
+CCR2	0.27 
+ACP6	0.27 
+ZFP36L1	0.27 
+IL23A	0.27 
+PRR5	0.27 
+GLRX	0.27 
+PNP	0.27 
+CACNA2D4	0.27 
+FOS	0.27 
+KDM6B	0.27 
+ANKRD28	0.27 
+EEF1B2	0.26 
+G3BP2	0.26 
+C3AR1	0.26 
+ARL4A	0.26 
+RPS12	0.26 
+NFKB2	0.26 
+ITM2B	0.26 
+CCNH	0.26 
+SETD7	0.26 
+APOL3	0.25 
+MAEA	0.25 
+PRDM1	0.25 
+RPS4X	0.25 
+TANC2	0.25 
+SOCS2	0.25 
+RPL4	0.25 
+CTSA	0.25 
+TMEM123	0.25 
+HDAC9	0.25 
+BCL2	0.25 
+PBX4	0.25 
+IKZF2	0.25 
+CDC42EP3	0.25 
+SMCO4	0.25 
+PDE8A	0.25 
+CRY1	0.25 
+RPS3A	0.24 
+FHL1	0.24 
+ZC3H12A	0.24 
+RPS6	0.24 
+RPL22	0.24 
+TC2N	0.24 
+CCNG2	0.24 
+ADAM19	0.24 
+SPTY2D1	0.24 
+SLC7A5	0.24 
+FTH1	0.24 
+EEF2	0.24 
+RBL2	0.24 
+EML4	0.24 
+NSG1	0.23 
+CPNE7	0.23 
+RPS27A	0.23 
+RPL17	0.23 
+LONRF3	0.23 
+CFH	0.23 
+SLC7A8	0.23 
+RARA	0.23 
+PLEKHA7	0.23 
+GTF3C1	0.23 
+RPS5	0.23 
+RELB	0.22 
+TMEM171	0.22 
+RPL10	0.22 
+LGALS3	0.22 
+ADAM10	0.22 
+RPL29	0.22 
+MPZL3	0.22 
+SERP1	0.22 
+KDSR	0.22 
+CMTM6	0.22 
+TPD52	0.22 
+WDR86	0.22 
+RPL10A	0.22 
+TNIP1	0.22 
+RNF144B	0.22 
+PIM2	0.22 
+GFPT2	0.22 
+PPP1R15A	0.22 
+LPXN	0.21 
+ARL14EP	0.21 
+SVIL	0.21 
+ARL3	0.21 
+ID2	0.21 
+PAK2	0.21 
+RPSA	0.21 
+BHLHE40	0.21 
+NR1D2	0.21 
+ELOVL6	0.21 
+ARNTL	0.21 
+VSTM4	0.21 
+BTG2	0.21 
+MAP3K4	0.21 
+MMD	0.21 
+TMEM71	0.21 
+RPS6KA3	0.21 
+JUN	0.20 
+ADRB2	0.20 
+JAK1	0.20 
+TXK	0.20 
+TMED10	0.20 
+LUZP1	0.20 
+STAT4	0.20 
+GPR35	0.20 
+SAMD12	0.20 
+C2CD4D	0.20 
+GDI1	0.20 
+SKAP2	0.20 
+PTGER2	0.20 
+THBS1	0.20 
+RPS8	0.20 
+ABRACL	0.20 
+IFI44L	0.20 
+IVNS1ABP	0.20 
+ELOVL4	0.20 
+ICAM2	0.20 
+HIPK2	0.20 
+RPS2	0.19 
+AFF3	0.19 
+LATS2	0.19 
+RPL9	0.19 
+RPL18A	0.19 
+PHTF2	0.19 
+RPL19	0.19 
+RPL7	0.19 
+HELZ	0.19 
+MPRIP	0.19 
+TMPRSS3	0.19 
+MBOAT1	0.19 
+RPL18	0.19 
+PPARG	0.19 
+SIPA1L2	0.19 
+CYB561	0.19 
+TMEM14C	0.19 
+RAB18	0.19 
+RPS23	0.19 
+GPR183	0.19 
+CELF2	0.19 
+CYB5A	0.19 
+CCR1	0.19 
+NPAS2	0.19 
+AMPD2	0.19 
+WDFY2	0.18 
+PMVK	0.18 
+THRA	0.18 
+NMRK1	0.18 
+TDRKH	0.18 
+MACC1	0.18 
+TNFRSF4	0.18 
+RNASET2	0.18 
+GLO1	0.18 
+RPL15	0.18 
+PDK3	0.18 
+RAB11FIP1	0.18 
+IL12RB1	0.18 
+LZTS1	0.18 
+RPL6	0.18 
+RPS9	0.18 
+LTA	0.18 
+BTBD11	0.18 
+TYROBP	0.18 
+NEK7	0.18 
+S1PR5	0.18 
+ABCD1	0.18 
+MGAT5	0.18 
+SEC61B	0.18 
+SQSTM1	0.18 
+IGSF22	0.17 
+GPR150	0.17 
+SYNJ2	0.17 
+GCHFR	0.17 
+CLINT1	0.17 
+SORL1	0.17 
+EIF3L	0.17 
+CD28	0.17 
+FKBP5	0.17 
+CD96	0.17 
+IL2	0.17 
+IGFBP4	0.17 
+IFT140	0.17 
+NUP62	0.17 
+BTG1	0.17 
+CD151	0.17 
+RPL11	0.17 
+ICAM1	0.17 
+IER5	0.17 
+PARP8	0.17 
+DNAJB9	0.17 
+CASP1	0.17 
+LPCAT4	0.17 
+RGS14	0.17 
+RPL35	0.17 
+DAB1	0.17 
+LAPTM4B	0.17 
+XBP1	0.17 
+CD6	0.17 
+SLC31A2	0.17 
+DHRS3	0.16 
+EIF3E	0.16 
+MYO1D	0.16 
+RGS2	0.16 
+ELL	0.16 
+PIK3IP1	0.16 
+TRAF1	0.16 
+RPL12	0.16 
+YIPF5	0.16 
+HNRNPUL1	0.16 
+RASGRF2	0.16 
+SDC4	0.16 
+ZNRF1	0.16 
+PLAC8	0.16 
+GPX4	0.16 
+OSTC	0.16 
+CDK5RAP1	0.16 
+IRAK2	0.16 
+MFHAS1	0.16 
+GNPDA1	0.16 
+RPL21	0.16 
+STON1	0.16 
+TGFA	0.16 
+IQCG	0.15 
+MGAT1	0.15 
+BEX5	0.15 
+CDC14A	0.15 
+TP53I13	0.15 
+SLC7A6	0.15 
+MXI1	0.15 
+ERGIC1	0.15 
+RPL28	0.15 
+GOLGA8B	0.15 
+BZW1	0.15 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

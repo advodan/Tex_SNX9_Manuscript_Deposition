@@ -1,0 +1,24 @@
+CD107a_positive_5 Read Counts Distribution:
+***********************************
+
+Read Counts per sgRNA (normalized)
+------------------------------------
+Median:			4961
+Standard Deviation:	2943
+25% Quantile:		3363
+75% Quantile:		7042
+Minimum:		696
+Maximum:		17366
+sgRNA Representation:	180 (100.0%)
+Gini coefficient:	0.29
+
+Read Counts per Gene (normalized)
+------------------------------------
+Median:			27015
+Standard Deviation:	16934
+25% Quantile:		23813
+75% Quantile:		34176
+Minimum:		9791
+Maximum:		110777
+Gene Representation:	33 (100.0%)
+Gini coefficient:	0.242

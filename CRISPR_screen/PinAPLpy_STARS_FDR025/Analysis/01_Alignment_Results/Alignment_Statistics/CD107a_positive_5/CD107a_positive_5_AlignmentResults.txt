@@ -1,0 +1,24 @@
+CD107a_positive_5 Alignment Results
+**************************************
+
+Total Number of Reads: 	2739928
+
+Number of Reads with unique Alignments: 	2159703 (78.8%)
+Number of Reads above Ambiguity Tolerance: 	0 (0.0%)
+---------------------------------------------------------------
+Total Number of Reads matched: 			2159703 (78.8%)
+
+
+Number of Reads below Ambiguity Tolerance: 	0 (0.0%)
+Number of Reads with failed Alignment: 		580225 (21.2%)
+---------------------------------------------------------------
+Total Number of Reads discarded: 		580225 (21.2%)
+
+
+
+Parameter settings
+L_bw (Seed Length): 11
+N_bw (Seed Mismatch): 1
+i_bw (Interval Function): S,1,0.75
+Theta (Ambiguity Threshold): 2
+AS_min (Matching Threshold): 40

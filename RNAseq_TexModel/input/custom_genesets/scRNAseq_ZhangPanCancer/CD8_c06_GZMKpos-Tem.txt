@@ -1,0 +1,284 @@
+SYMBOL	ES
+GZMK	0.80 
+CD74	0.70 
+HLA-DRB1	0.70 
+HLA-DRA	0.66 
+HLA-DPA1	0.61 
+COTL1	0.60 
+HLA-DPB1	0.59 
+HLA-DQA1	0.58 
+GZMA	0.57 
+HLA-DQB1	0.55 
+HLA-DRB5	0.49 
+CCL5	0.46 
+ITM2C	0.46 
+CST7	0.45 
+APOBEC3G	0.45 
+GZMH	0.44 
+NKG7	0.43 
+SH2D1A	0.42 
+HLA-A	0.40 
+DUSP4	0.39 
+HLA-DMA	0.39 
+TMSB4X	0.39 
+RARRES3	0.36 
+TRAT1	0.34 
+IL32	0.34 
+CD27	0.33 
+CCR5	0.33 
+CORO1A	0.33 
+EOMES	0.33 
+ITM2A	0.33 
+GYG1	0.32 
+CCL4	0.32 
+DUSP2	0.32 
+HLA-DMB	0.32 
+CLIC1	0.31 
+CNN2	0.31 
+PFN1	0.30 
+PSMB9	0.30 
+LCP1	0.30 
+SUB1	0.29 
+LYST	0.29 
+CXCR3	0.29 
+ITGB2	0.29 
+APOBEC3H	0.28 
+CLEC2B	0.28 
+GLIPR2	0.28 
+APOBEC3C	0.28 
+ATP5E	0.27 
+F2R	0.27 
+RGS1	0.27 
+IDH2	0.27 
+CTSC	0.27 
+FABP5	0.27 
+ARHGDIB	0.27 
+HNRNPLL	0.27 
+HLA-DQA2	0.27 
+ACTB	0.26 
+CPNE7	0.26 
+GIMAP4	0.26 
+ANXA5	0.26 
+PSME2	0.26 
+CAP1	0.25 
+PSME1	0.25 
+CRTAM	0.25 
+WIPF1	0.25 
+AOAH	0.25 
+CD2	0.25 
+PTPRC	0.24 
+MYL6	0.24 
+NAA50	0.24 
+CD44	0.24 
+MYL12B	0.24 
+DTHD1	0.24 
+NFATC2	0.24 
+UBE2L6	0.24 
+HLA-C	0.24 
+GGA2	0.24 
+CXCR4	0.23 
+CD38	0.23 
+GBP5	0.23 
+CASP4	0.23 
+CCL4L2	0.23 
+ENC1	0.23 
+OASL	0.23 
+CMC1	0.23 
+CHI3L2	0.23 
+SAMD3	0.23 
+CFL1	0.23 
+PYHIN1	0.23 
+OAZ1	0.23 
+REEP5	0.22 
+RNF19A	0.22 
+PTPRCAP	0.22 
+FRMD4B	0.22 
+IFI16	0.22 
+CD8A	0.22 
+PSMA7	0.22 
+ADA	0.22 
+TERF2IP	0.22 
+ARAP2	0.22 
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

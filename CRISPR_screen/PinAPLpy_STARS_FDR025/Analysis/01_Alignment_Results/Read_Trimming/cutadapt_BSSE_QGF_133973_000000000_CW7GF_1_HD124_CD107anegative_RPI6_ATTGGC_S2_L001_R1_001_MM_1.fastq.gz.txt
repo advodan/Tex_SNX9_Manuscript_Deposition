@@ -1,0 +1,34 @@
+This is cutadapt 1.15 with Python 2.7.6
+Command line parameters: -g ATTTTAACTTGCTATTTCTAGCTCTAAAAC /workingdir/Data/BSSE_QGF_133973_000000000_CW7GF_1_HD124_CD107anegative_RPI6_ATTGGC_S2_L001_R1_001_MM_1.fastq.gz -o Trim_BSSE_QGF_133973_000000000_CW7GF_1_HD124_CD107anegative_RPI6_ATTGGC_S2_L001_R1_001_MM_1.fastq.gz -e 0.1 -m 20 -l 20
+Running on 1 core
+Trimming 1 adapter with at most 10.0% errors in single-end mode ...
+Finished in 79.04 s (34 us/read; 1.79 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:               2,357,626
+Reads with adapters:                     7,284 (0.3%)
+Reads that were too short:                   0 (0.0%)
+Reads written (passing filters):     2,357,626 (100.0%)
+
+Total basepairs processed:   120,238,926 bp
+Total written (filtered):     47,152,520 bp (39.2%)
+
+=== Adapter 1 ===
+
+Sequence: ATTTTAACTTGCTATTTCTAGCTCTAAAAC; Type: regular 5'; Length: 30; Trimmed: 7284 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-19 bp: 1; 20-29 bp: 2; 30 bp: 3
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	5016	36837.9	0	5016
+4	1596	9209.5	0	1596
+5	507	2302.4	0	507
+6	142	575.6	0	142
+7	3	143.9	0	3
+8	2	36.0	0	2
+9	1	9.0	0	1
+10	17	2.2	1	0 17
+
