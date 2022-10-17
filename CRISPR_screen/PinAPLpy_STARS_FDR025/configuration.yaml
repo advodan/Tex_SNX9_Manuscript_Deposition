@@ -1,0 +1,122 @@
+# Required 
+ScreenType: 'enrichment' 
+LibFilename: '18-11-22_targetedLibrary_SelectionMarcel_reverseComplementPinapl.csv' 
+
+# Library Parameters 
+seq_5_end: 'ATTTTAACTTGCTATTTCTAGCTCTAAAAC' 
+NonTargetPrefix: 'Intergenic' 
+NumGuidesPerGene: 5 
+
+# Gene Ranking 
+GeneMetric: 'STARS' 
+Np: 10 
+alpha_g: 0.25 
+thr_STARS: 25 
+IncludeGeneRankCombination: False 
+w_SigmaFC: [0,1,2,3,4,5,6] 
+
+# sgRNA Ranking 
+padj: 'Sidak' 
+alpha_s: 0.25 
+ClusterBy: 'variance' 
+TopN: 25 
+
+# Read Counting 
+Normalization: 'cpm' 
+Cutoff: 0 
+RoundCount: False 
+repl_avg: 'median' 
+
+# Alignment 
+sgRNALength: 20 
+CutErrorTol: 0.1 
+AS_min: 40 
+Theta: 2 
+L_bw: 11 
+N_bw: 1 
+i_bw: 'S,1,0.75' 
+AlnOutput: 'Delete' 
+keepCutReads: False 
+R_min: 20 
+
+# Plotting 
+ShowNonTargets: True 
+scatter_annotate: False 
+TransparencyLevel: 0.05 
+dotsize: 10 
+dpi: 300 
+HitListFormat: 'xlsx' 
+AutoHighlight: True 
+IncludeDensityPlots: True 
+p_overdisp: 0.05 
+PrintHighlights: false 
+FCmin_SigmaFC: 0 
+delta: 1 
+logbase: 10 
+width_p: 800 
+height_p: 800 
+fontsize_p: 14 
+marginsize: 10 
+max_q: 95 
+svg: True 
+
+WorkingDir: '/workingdir/'
+DataDir: '/workingdir/Data/'
+TempDataDir: '/workingdir/TempData/'
+LibDir: '/workingdir/Library/'
+IndexDir: '/workingdir/Library/Bowtie2_Index/'
+ScriptsDir: '/opt/PinAPL-Py/Scripts/'
+AlignDir: '/workingdir/Alignments/'
+AnalysisDir: '/workingdir/Analysis/'
+TrimLogDir: '/workingdir/Analysis/01_Alignment_Results/Read_Trimming/'
+sgRNARanksDir: '/workingdir/Analysis/02_sgRNA-Ranking_Results/sgRNA_Rankings/'
+GeneDir: '/workingdir/Analysis/03_GeneRanking_Results/Gene_Rankings'
+ControlDir: '/workingdir/Analysis/02_sgRNA-Ranking_Results/ControlSample_Analysis/'
+HeatDir: '/workingdir/Analysis/02_sgRNA-Ranking_Results/Heatmap/'
+AlnQCDir: '/workingdir/Analysis/01_Alignment_Results/Alignment_Statistics/'
+sgRNAReadCountDir: '/workingdir/Analysis/01_Alignment_Results/ReadCounts_per_sgRNA/'
+GeneReadCountDir: '/workingdir/Analysis/01_Alignment_Results/ReadCounts_per_Gene/'
+CountQCDir: '/workingdir/Analysis/02_sgRNA-Ranking_Results/ReadCount_Distribution/'
+ScatterDir: '/workingdir/Analysis/02_sgRNA-Ranking_Results/sgRNA_Scatterplots/'
+DensityDir: '/workingdir/Analysis/02_sgRNA-Ranking_Results/sgRNA_Densities/'
+GenePlotDir: '/workingdir/Analysis/03_GeneRanking_Results/GeneScore_Scatterplots/'
+HiLiteDir: '/workingdir/Analysis/02_sgRNA-Ranking_Results/ReadCount_Scatterplots/Highlighted_Genes/'
+CorrelDir: '/workingdir/Analysis/02_sgRNA-Ranking_Results/Replicate_Correlation/'
+HiLiteDir2: '/workingdir/Analysis/02_sgRNA-Ranking_Results/Replicate_Correlation/Highlighted_Genes/'
+EffDir: '/workingdir/Analysis/03_GeneRanking_Results/sgRNA_Efficacy/'
+DepthDir: '/workingdir/Analysis/01_Alignment_Results/Read_Depth/'
+SeqQCDir: '/workingdir/Analysis/01_Alignment_Results/Sequence_Quality/'
+pvalDir_sgRNA: '/workingdir/Analysis/02_sgRNA-Ranking_Results/p-value_Distribution/' 
+pvalDir_genes: '/workingdir/Analysis/03_GeneRanking_Results/p-value_Distribution/' 
+LogFileDir: '/workingdir/Analysis/00_Log_File/'
+zScoreDir_sgRNA: '/workingdir/Analysis/02_sgRNA-Ranking_Results/sgRNA_z-Scores/' 
+VolcanoDir_sgRNA: '/workingdir/Analysis/02_sgRNA-Ranking_Results/sgRNA_VolcanoPlots/' 
+bw2Dir: '/usr/bin/'
+CutAdaptDir: '/root/.local/bin/'   
+STARSDir: '/opt/PinAPL-Py/Scripts/STARS_mod/'
+
+SanityScript: 'CheckCharacters'
+IndexScript: 'BuildLibraryIndex'
+LoaderScript: 'LoadDataSheet'
+ReadDepthScript: 'PlotNumReads'
+SeqQCScript: 'CheckSequenceQuality'
+TrimScript: 'TrimReads'
+AlignScript: 'AlignReads'
+ClassifyScript: 'GetReadCounts'
+CutoffScript: 'ApplyCutoff'
+CleanUpScript: 'RemoveTempOutput'
+NormalizeScript: 'NormalizeReadCounts'
+AverageCountsScript: 'AverageCounts'
+StatsScript: 'AnalyzeReadCounts'
+ControlScript: 'AnalyzeControl'
+sgRNARankScript: 'RanksgRNAs'
+zFCScript: 'PlotFCz'
+vFCScript: 'PlotFCvolcano'
+GeneRankScript: 'RankGenes'
+GenePlotScript: 'PlotGeneScores'
+CombineScript: 'CombineGeneRanks'
+ScatterScript: 'PlotCounts'
+DensityScript: 'PlotDensity'
+ReplicateScript: 'PlotReplicates'
+ClusterScript: 'PlotHeatmap'
+ExtractTop10Script: 'ExtractTop10Genes'
